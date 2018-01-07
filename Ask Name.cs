@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             
 
-            Console.Write("What is your name?");
+            Console.WriteLine("What is your name?");
             string name = Console.ReadLine();
             Console.WriteLine("Hello " + name + " it is nice to meet you");
 
